@@ -1,7 +1,4 @@
-/*
- * Autor: [TU NOMBRE COMPLETO]
- * Desc: Imprime los pares en el rango [2, 48].
- */
+
 #include <stdio.h>
 
 int main() {
