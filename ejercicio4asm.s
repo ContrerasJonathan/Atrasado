@@ -23,9 +23,9 @@
  
      // --- Cuerpo del Bucle: Calcular y Preparar ---
  
-+    // 1. Cargar 1.0 en d1 (DEBE estar DENTRO del bucle)
-+    ldr d1, =const_1_0  
-+
+    // 1. Cargar 1.0 en d1 (DEBE estar DENTRO del bucle)
+    ldr d1, =const_1_0  
+
      // 2. Convertir 'i' (entero en x19) a 'i' (double en d0)
      scvtf d0, x19
  
