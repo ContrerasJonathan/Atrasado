@@ -1,7 +1,4 @@
-/*
- * Autor: [TU NOMBRE COMPLETO]
- * Desc: (ASM) Pares [2, 48].
- */
+
 .text
 .section .rodata
     titulo_str:
