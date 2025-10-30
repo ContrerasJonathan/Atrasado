@@ -1,7 +1,4 @@
-/*
- * Autor: [TU NOMBRE COMPLETO]
- * Desc: (ASM) Impares [7, 51].
- */
+
 .text
 .section .rodata
     titulo_str:
