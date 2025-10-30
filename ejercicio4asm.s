@@ -2,7 +2,7 @@
 
 .section .rodata
 titulo_str:
-    .string "--- Ejercicio 4 (Ensamblador): Recíprocos 1-30 ---\n"
+    .string "--- Ejercicio4 (Ensamblador): Recíprocos 1-30 ---\n"
 header_str:
     .string " Num | Recíproco\n-----|-----------\n"
 formato_str:
