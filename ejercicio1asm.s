@@ -1,13 +1,4 @@
-/*
- * =====================================================================================
- *
- * Filename:  ejercicio1_asm.s
- *
- * Description:  Imprime los enteros del 9 al 43. (Versión Ensamblador ARM64)
- * Autor(a):     [TU NOMBRE COMPLETO]
- *
- * =====================================================================================
- */
+
 
 .text // Inicio de la sección de código
 
