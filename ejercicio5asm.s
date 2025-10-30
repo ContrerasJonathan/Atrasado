@@ -1,7 +1,4 @@
-/*
- * Autor: [TU NOMBRE COMPLETO]
- * Desc: (ASM) Potencias de 2 (<= 1000).
- */
+
 .text
 .section .rodata
     titulo_str:
